@@ -7,6 +7,7 @@ En este práctica se va a programar el código encargado de encender y apagar el
 ## Materiales
 
 - 1 Arduino UNO
+- 1 Cable USB A-B
 
 ## Esquema eléctrico
 
